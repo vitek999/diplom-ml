@@ -1,0 +1,173 @@
+[
+  {
+    "id": 0,
+    "firstName": "andrey",
+    "lastName": "pisarev",
+    "age": 20,
+    "weight": 92,
+    "height": 181,
+    "gender": "Male"
+  },
+  {
+    "id": 1,
+    "firstName": "stas",
+    "lastName": "stepanov",
+    "age": 24,
+    "weight": 92,
+    "height": 190,
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "firstName": "a",
+    "lastName": "a",
+    "age": 18,
+    "weight": 72,
+    "height": 185,
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "firstName": "b",
+    "lastName": "b",
+    "age": 18,
+    "weight": 65,
+    "height": 177,
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "firstName": "c",
+    "lastName": "c",
+    "age": 17,
+    "weight": 100,
+    "height": 193,
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "firstName": "d",
+    "lastName": "d",
+    "age": 18,
+    "weight": 48,
+    "height": 165,
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "firstName": "e",
+    "lastName": "e",
+    "age": 18,
+    "weight": 0,
+    "height": 175,
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "firstName": "k",
+    "lastName": "k",
+    "age": 18,
+    "weight": 64,
+    "height": 184,
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "firstName": "m",
+    "lastName": "m",
+    "age": 18,
+    "weight": 72,
+    "height": 178,
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "firstName": "n",
+    "lastName": "n",
+    "age": 18,
+    "weight": 69,
+    "height": 175,
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "firstName": "o",
+    "lastName": "o",
+    "age": 20,
+    "weight": 67,
+    "height": 183,
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "firstName": "p",
+    "lastName": "p",
+    "age": 18,
+    "weight": 93,
+    "height": 170,
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "firstName": "r",
+    "lastName": "r",
+    "age": 19,
+    "weight": 66,
+    "height": 176,
+    "gender": "Male"
+  },
+  {
+    "id": 13,
+    "firstName": "a1",
+    "lastName": "a1",
+    "age": 19,
+    "weight": 60,
+    "height": 172,
+    "gender": "Male"
+  },
+  {
+    "id": 14,
+    "firstName": "b1",
+    "lastName": "b1",
+    "age": 19,
+    "weight": 75,
+    "height": 188,
+    "gender": "Male"
+  },
+  {
+    "id": 15,
+    "firstName": "c1",
+    "lastName": "c1",
+    "age": 18,
+    "weight": 75,
+    "height": 185,
+    "gender": "Male"
+  },
+  {
+    "id": 16,
+    "firstName": "d1",
+    "lastName": "d1",
+    "age": 18,
+    "weight": 60,
+    "height": 185,
+    "gender": "Male"
+  },
+  {
+    "id": 17,
+    "firstName": "e1",
+    "lastName": "e1",
+    "age": 19,
+    "weight": 55,
+    "height": 164,
+    "gender": "Female"
+  },
+  {
+    "id": 18,
+    "firstName": "f1",
+    "lastName": "f1",
+    "age": 18,
+    "weight": 60,
+    "height": 175,
+    "gender": "Female"
+  }
+]
